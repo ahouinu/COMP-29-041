@@ -1,0 +1,90 @@
+# To match a floating number
+^[1-9][0-9]+\.[0-9]+$
+
+# To match an IP address from range 129.94.172.1 - 129.94.172.25
+^129\.94\.172\.([1-9]|1[0-9]|2[0-5])$
+
+# Regex to match 'NOTHING'
+egrep -v .
+# which is equivalent to
+egrep '$^'
+# I tried these but didn't work for me
+egrep '[^\s\S]*' # \w\W, \d\D, inspired by the regex's to match everything
+
+# who fails
+egrep '^[0-9]{7}\s[1-5][0-9]\s[A-Z]{2}$' marks.txt
+# over 90
+egrep '^[0-9]{7}\s9[0-9]\s[A-Z]{2}$' marks.txt 
+# even zid
+egrep '^[0-9]{6}[02468]\s.*$' marks.txt 
+
+# top 10
+sort -rk 2 marks.txt | head [-n 10 by default]
+# bottom 5
+sort -rk 2 marks.txt | tail -n 5
+
+# grade distribution
+cut -d' ' -f 3 marks.txt | sort | uniq -c
+# NOTE: uniq -c
+# -c, --count
+#            prefix lines by the number of occurrences
+
+# which tut does Hinry Ng enroll?
+egrep 'Ng, Hinry' enroll.txt | cut -c 37-  
+# NOTE: cut -c 37- means cut this line from the 37th character
+# cut -f means to cut by fields
+# cut -b means to cut by bytes
+
+# how many different tuts?
+# how many students in each tut?
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ cut -c 37- enroll.txt | sort | uniq -c
+      1 |fri09-harp|
+      1 |fri15-spoons|
+      2 |mon11-leaf|
+      1 |thu17-spoons|
+      2 |tue09-harp|
+      1 |tue13-kazoo|
+      2 |tue17-kazoo|
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ cut -c 37- enroll.txt | sort | uniq -c | wc
+      7      14     153
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ cut -c 37- enroll.txt | sort | uniq -c | wc -l
+7
+
+# any students enrolled in more than one tut?
+# No, see below
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ cut -c 8-37 enroll.txt 
+|Wang, Duved Seo Ken         |
+|Undirwaad, Giaffriy Jumis   |
+|Ng, Hinry                   |
+|Zhung, Yung                 |
+|Hso, Men-Tsun               |
+|Khorme, Saneu               |
+|Mahsin, Zumel               |
+|Trun, Toyin Hong Recky      |
+|Sopuvunechyunant, Sopuchue  |
+|Chung, Wue Sun              |
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ cut -c 8-37 enroll.txt | sort
+|Chung, Wue Sun              |
+|Hso, Men-Tsun               |
+|Khorme, Saneu               |
+|Mahsin, Zumel               |
+|Ng, Hinry                   |
+|Sopuvunechyunant, Sopuchue  |
+|Trun, Toyin Hong Recky      |
+|Undirwaad, Giaffriy Jumis   |
+|Wang, Duved Seo Ken         |
+|Zhung, Yung                 |
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ cut -c 8-37 enroll.txt | sort | uniq -c
+      1 |Chung, Wue Sun              |
+      1 |Hso, Men-Tsun               |
+      1 |Khorme, Saneu               |
+      1 |Mahsin, Zumel               |
+      1 |Ng, Hinry                   |
+      1 |Sopuvunechyunant, Sopuchue  |
+      1 |Trun, Toyin Hong Recky      |
+      1 |Undirwaad, Giaffriy Jumis   |
+      1 |Wang, Duved Seo Ken         |
+      1 |Zhung, Yung                 |
+z5176343@vx4:/tmp_amd/glass/export/glass/2/z5176343/COMP9041/tut02$ 
+
+

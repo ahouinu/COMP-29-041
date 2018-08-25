@@ -1,0 +1,907 @@
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
+<HTML lang="en">
+
+
+
+<HEAD>
+<TITLE>UNSW Handbook - Browse Undergraduate Courses by Faculty</TITLE>
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META http-equiv="expires" content="0">
+<META http-equiv="Pragma" content="no-cache">
+<META http-equiv="Cache-Control" content="no-cache">
+<META name="ROBOTS" content="NOINDEX,NOFOLLOW">
+<META name="MSSmartTagsPreventParsing" content="TRUE" /> 
+<META name="DC.Date" content="2014-07-25" scheme="ISO8601" >
+<META name="DC.Publisher" content="University of New South Wales" >
+<META name="EDNA.Audience" content="Students" >
+<META name="DC.Creator" content="NSS extract" >
+<META name="DC.Subject" content="handbook, handbooks, catalog, catalogue, course, subject, program, programme, plan, major, minor, degree, award, study area, courses, undergraduate courses, postgraduate courses, subject area, faculty courses, what to study, choosing a program, choosing a programme, UNSW courses, courses at UNSW, search courses, UNSW programme, UNSW plan, my courses, student courses, browse courses, careers, university courses, education, course search, general education courses, find program, find course, find plan" >
+<META name="keywords" content="handbook, handbooks, catalog, catalogue, course, subject, program, programme, plan, major, minor, degree, award, study area, courses, undergraduate courses, postgraduate courses, subject area, faculty courses, what to study, choosing a program, choosing a programme, UNSW courses, courses at UNSW, search courses, UNSW programme, UNSW plan, my courses, student courses, browse courses, careers, university courses, education, course search, general education courses, find program, find course, find plan" >
+<META name="EDNA.Approver" content="Registrar & Deputy Principal" >
+<META name="DC.Source" content="NSS extract" >
+<META name="DC.Rights" content="http://www.unsw.edu.au/help/disclaimer.html" >
+<META name="DC.Title" content=" Virtual Handbook - Program Search " >
+<META name="DC.Type" content="Virtual Handbook" >
+<META name="DC.Identifier" content=" http://www.unsw.edu.au/handbook/ " >
+<META name="DC.Language" content="en" scheme="RFC1766" >
+<META name="DC.Description" content="Students can use the Virtual Handbook to learn more about the requirements for their Program (Degree), or find courses (subjects) they would like to enrol in " >
+<META name="description" content="Students can use the Virtual Handbook to learn more about the requirements for their Program (Degree), or find courses (subjects) they would like to enrol in " >
+<META name="EDNA.Version" content="Version 1.1" >
+<META name="DC.Format" content="text/html" scheme="IMT" >
+<META http-equiv="content-script-type" content="text/javascript; charset=utf-8" />
+<link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2018/print.css" type="text/css" media="print" charset="utf-8">
+<link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2018/screen.css" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2018/colour.css" type="text/css" media="screen" charset="utf-8">
+<script src="http://www.handbook.unsw.edu.au/scripts/hbJavascript/hbStandard.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-1.6.js" type="text/javascript" charset= "utf-8"></script>
+</HEAD>
+
+
+
+
+
+
+
+<body id="home">
+   <a name="GOTOP"></a>
+   <!-- Page Wrapper -->
+   <div id="pageWrapper">
+   <!-- Header Wrapper -->
+   <div id="headerWrapper">
+   <div id="header">
+   <div id="unsw">
+   <a href="http://www.unsw.edu.au" onclick="window.open(this.href); return false;" title="The University of New South Wales"><img src="http://www.handbook.unsw.edu.au/images/2018/logos/unsw-logo.jpg" alt="The University of New South Wales" /></a>
+   <h1>Handbook 2018</h1>
+   </div>
+
+   <div id="your-study-planner">
+   <a href="http://www.student3plus.unsw.edu.au" onclick="window.open(this.href); return false;" title="Your Study Planners"><img src="http://www.handbook.unsw.edu.au/images/2018/logos/Study_Planner_Banner_270x70.jpg" alt="Your Study Planners"></a>
+   </div>
+
+   </div>
+   </div>
+   <!-- End of Header Wrapper -->
+   
+   <!-- Content Wrapper -->
+   <div id="contentWrapper" class="ug" >
+   
+   <!-- Content -->
+   <div id="content">
+   
+
+	<!-- Top Navigation Bar -->
+	<div id="navigationBar">
+	<div class="left">
+		<ul id="actions">
+		<li><a href="https://my.unsw.edu.au/">MyUNSW</a></li>
+		<li><a href="https://student.unsw.edu.au/">Current Students</a></li>
+		<li><a href="http://www.futurestudents.unsw.edu.au/">Future Students</a></li>
+		<li><a href="http://timetable.unsw.edu.au/">Class Timetable</a></li>
+		<li><a href="http://www.elearning.unsw.edu.au/">eLearning</a></li>
+		<li><a href="http://www.library.unsw.edu.au/">Library</a></li>
+		<li><a href="#">Contacts</a>
+		<ul class="second">
+										<li><a href="http://www.unsw.edu.au/faculties">Faculty Directory</a></li>
+										<li><a href="https://student.unsw.edu.au/node/4431">Program Authority Directory</a></li>
+										<li><a href="http://studentlifelearning.unsw.edu.au/studentcentral/">Student Central</a></li>
+										<li><a href="http://www.unsw.edu.au/contacts">Key Contacts - Kensington, <br />Paddington, Canberra</a></li>
+		</ul>
+		</li>
+		</ul>
+		</div>
+		</div>
+		<!-- End of Top Navigation Bar -->
+   
+   <!-- End of Navigation Bar -->
+   
+   <!-- Handbook Header "Internal" -->
+   <div id="handbookHeader" class="internalHeader">
+   
+   </div>
+   <!-- End of Handbook Header "Home" -->
+   
+   <!-- Home Content -->
+
+
+
+<div id="contentPane" class="internalContent">
+    
+
+
+
+<!-- Column 1 - Navigation-->
+<div class="column nav-col">
+ <link rel="stylesheet" href="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/jquery.tooltip.css" />
+ <script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/lib/jquery.js" type="text/javascript"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/lib/jquery.bgiframe.js" type="text/javascript"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/lib/jquery.dimensions.js" type="text/javascript"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/jquery.tooltip.js" type="text/javascript"></script>
+
+<!-- Side Navigation -->
+<script type="text/javascript">
+
+			$(function() {
+			$('#tltip, #tltip1, #tltip2').tooltip({track: true, delay: 0, fade: 50, extraClass: "tlHelp"});
+			});
+
+</script>
+<style>
+		a.acrp:link{color:black; text-decoration:none;}
+		a.acrp:visited{color:black; text-decoration:none;}
+		a.acrp:hover{color:green; text-decoration:none;}
+
+		form#careerLevelForm {
+				margin-top: 0;
+				padding: 0;
+			}
+				
+		fieldset {
+			background: none;
+			border-width: 0;
+			margin: 0;
+			padding: 5px 0;
+		}
+
+		fieldset legend {
+		    color: #000000;
+		    display: block;
+		    font-weight: bold;
+		    padding-bottom: 2px;
+		}
+
+							
+		form#careerLevelForm select {
+			font-size: 1em;
+			margin: 4px 0 4px 45px
+		}				
+							
+		form#careerLevelForm fieldset img {
+			display:block; 
+			margin-left:auto; 
+			margin-right:auto;
+		}			
+
+		div.listOptions {
+			font-size: 1.1em;
+			font-weight: bold;
+		}
+               .active {
+  			text-decoration: underline;
+   			font-size: 14px;
+		}
+
+		div#content div#contentPane div.column.content-col {
+			width: 558px;
+			margin-right: 20px;
+		}
+
+							
+</style>
+
+
+	<div class="sideNavWrapper">
+	<div class="sideNavHeader">
+	<a href="http://www.handbook.unsw.edu.au/2018/index.html" title="UNSW Handbook - Back to Home" name="UNSW Handbook - Back to Home"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/backToHandbook.png" alt="UNSW Handbook - Back to Home"></a>
+	</div>
+	<div class="sideNav">
+								
+	<ul>
+<li><A href="/vbook2018/brProgramsByAtoZ.jsp?StudyLevel=Undergraduate" >Programs A-Z</A></li>
+<li><A href="/vbook2018/brProgramsByFaculty.jsp?StudyLevel=Undergraduate" >Programs by Faculty</A></li>
+<li><A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate" >Courses A-Z</A></li>
+<li><A href="/vbook2018/brCoursesBySubjectArea.jsp?StudyLevel=Undergraduate" >Courses by Subject Area</A></li>
+<li><A href="/vbook2018/brSpecialisationsByAtoZ.jsp?StudyLevel=Undergraduate" >Specialisations A-Z</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/areaofinterest/2018/areaofinterest.html?StudyLevel=Undergraduate" >Areas of Interest</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/careerfields/2018/careers.html?StudyLevel=Undergraduate" >Careers</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/general/2018/SSAPO/GeneralRules.html?StudyLevel=Undergraduate" >General Rules & Student Info</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/faculties/2018/facultymain.html?StudyLevel=Undergraduate" >Faculties & Schools</A></li>
+<li><a href="http://timetable.unsw.edu.au/">Class Timetable</a></li>
+
+
+<li><A href="http://www.handbook.unsw.edu.au/generaleducation/2018/generaleducation.html?StudyLevel=Undergraduate" >General Education</A></li>
+
+<li><a href="http://www.handbook.unsw.edu.au/general/2018/SSAPO/glossary.html">Glossary</a></li>
+									</ul>
+								</div>
+							</div>
+							
+
+
+
+	<!-- End Side Navigation -->
+	<!-- Content Column Wrapper -->
+	<div class="contentColWrapper">
+		<!-- Box Wrapper -->
+		<div class="genericBoxWrapper">
+			<!-- Generic Box - "Direct Find" -->
+			<div class="genericBox directFindBox blue">
+										<div class="header">
+											<h4>Direct Find</h4>
+										</div>
+										<div class="search">
+<form name="quickSearch" method="post" action="/vbook2018/quickResults.jsp"  onsubmit='if(document.quickSearch.QuickQuery.value.length==0){alert("Please enter a Program or Course code"); document.quickSearch.QuickQuery.focus();return false;}'>
+                   <input type="hidden" name="Type" value="program">
+                   <input type="hidden" name="Type" value="course">
+                   <input type="hidden" name="Counter" value="1">
+                   <input type="hidden" name="StudyLevel" value="Undergraduate">
+												<input class="text" type="text" name="QuickQuery" id="directFind" value="" tabindex="5" />
+												<input class="button" type="submit" name="go" id="go" value="go" tabindex="6" />
+											</form>
+										</div>
+										<div class="info">
+											<p>Use this search only if you have an exact code for a <strong><a href="#" class="acrp"><span id="Prog" title="At UNSW a degree is called PROGRAM. Each program is identified by a 4 digit numeric code (e.g. 3502 - Bachelor of Commerce).">Program</span></a></strong>, <strong><a href="#" class="acrp"> <span id="Plan" title="STREAM is a sequence of study. This is the umbrella term for majors, minors and postgraduate program specialisations. At UNSW, streams are identified by a six-digit code that consists of a four-character subject area, a single alphabetical character strand code, and a single character stream type code. For example, ACCTA1 refers to the Accounting stream, whereas ACCTA13502 refers to the Accounting stream offered under program 3502.">Stream</span></a></strong>, or <strong><a href="#" class="acrp"> <span id="Crse" title="COURSE is a subject, an individual study unit offered within a program with a specific unit of credit (UOC) weighting. For example, MATH1131 - Mathematics 1A, 6UoC. UNSW courses codes are made up of a four-digit alphabetic prefix, identifying the specialisation area, and a four-digit numeric suffix e.g. ECON1101 - Microeconomics 1.">Course</span></a></strong>, e.g. 3403, ACCTA13502, ACCT1501 or ACCT*.</p>
+										</div>
+		</div>
+		<!-- End of Generic Box - "Direct Find" -->
+									
+		</div>
+		<!-- End Generic Box Wrapper -->
+	</div>
+	<!-- End Content Column Wrapper -->
+       </div>
+      <!-- End of Column 1 -->
+
+
+   <!-- Column 2 -->
+   <div class="column content-col">
+ 
+   <div class="internalContentWrapper">
+
+
+<div><img src="http://www.handbook.unsw.edu.au/images/course_icon2008.gif" alt=" " width="137" height="45" border="0"></div><br />
+<h1>Courses A to Z</h1>
+
+<DIV class="listOptions">
+	<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=All">All</A>
+<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=A">A</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=B">B</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=C">C</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=D">D</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=E">E</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=F">F</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=G">G</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=H">H</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=I">I</A>&nbsp;J&nbsp;K&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=L">L</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=M">M</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=N">N</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=O">O</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=P">P</A>&nbsp;Q&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=R">R</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=S">S</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=T">T</A>&nbsp;U&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=V">V</A>&nbsp;W&nbsp;X&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=Y">Y</A>&nbsp;<A href="/vbook2018/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=Z">Z</A>&nbsp;
+
+			</DIV><BR><A name="a"></A>
+			<TABLE  cellpadding="2" cellspacing="1" border="0" class="tabluatedInfo">
+				<CAPTION class="white">Courses beginning with the letter COMP</CAPTION>
+				<TR>
+					<TH width="15%" align="left" class="tabulatedHeading" scope="col" style="margin-bottom:10px">Code</TH>
+					<TH width="65%" align="left" class="tabulatedHeading" scope="col" style="margin-bottom:10px">Course Title</TH>
+					<TH width="20%" align="left" class="tabulatedHeading" scope="col" style="margin-bottom:10px">Units of Credit</TH>
+				</TR>
+
+
+							<TR>
+								<TD class="" align="left">COMP1000</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1000.html">Introduction to World Wide Web, Spreadsheets and Databases </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP1400</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1400.html">Programming for Designers </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP1511</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1511.html">Introduction to Programming </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP1521</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1521.html">Computer Systems Fundamentals </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP1531</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1531.html">Software Engineering Fundamentals </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP1911</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1911.html">Computing 1A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP1927</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP1927.html">Computing 2 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP2041</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2041.html">Software Construction: Techniques and Tools</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP2111</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2111.html">System Modelling and Design </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP2121</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2121.html">Microprocessors and Interfacing </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP2511</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2511.html">Object-Oriented Design & Programming </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP2521</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2521.html">Data Structures and Algorithms </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP2911</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2911.html">Engineering Design in Computing </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3121</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3121.html">Algorithms and Programming Techniques</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3131</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3131.html">Programming Languages and Compilers</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3141</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3141.html">Software System Design and Implementation</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3151</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3151.html">Foundations of Concurrency</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3153</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3153.html">Algorithmic Verification </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3161</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3161.html">Concepts of Programming Languages</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3211</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3211.html">Computer Architecture</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3222</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3222.html">Digital Circuits and Systems </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3231</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3231.html">Operating Systems</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3311</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3311.html">Database Systems </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3331</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3331.html">Computer Networks and Applications</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3411</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3411.html">Artificial Intelligence</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3421</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3421.html">Computer Graphics</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3431</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3431.html">Robotic Software Architecture </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3511</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3511.html">Human Computer Interaction</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3601</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3601.html">Design Project A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3821</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3821.html">Extended Algorithms & Programming Techniques </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3891</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3891.html">Extended Operating Systems </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3900</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3900.html">Computer Science Project </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP3901</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3901.html">Special Project A</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP3902</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP3902.html">Special Project B</A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4121</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4121.html">Advanced and Parallel Algorithms </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4128</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4128.html">Programming Challenges </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4141</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4141.html">Theory of Computation </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4161</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4161.html">Advanced Topics in Software Verification </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4181</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4181.html">Language-based Software Safety </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4336</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4336.html">Mobile Data Networking </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4337</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4337.html">Securing Wireless Networks </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4418</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4418.html">Knowledge Representation and Reasoning </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4511</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4511.html">User Interface Design and Construction </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4601</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4601.html">Design Project B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4904</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4904.html">Industrial Training 1 </A></TD>
+								<TD class="" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4905</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4905.html">Industrial Training 2 </A></TD>
+								<TD class="evenTableCell" align="left">15</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4906</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4906.html">Industrial Training 3 </A></TD>
+								<TD class="" align="left">15</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4920</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4920.html">Management and Ethics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4930</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4930.html">Thesis Part A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP4931</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4931.html">Thesis Part B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP4941</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP4941.html">Thesis Part B </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6324</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6324.html">Internet of Things Service Design and Engineering</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6441</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6441.html">Security Engineering and Cyber Security </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6443</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6443.html">Web Application Security and Testing </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6445</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6445.html">Digital Forensics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6447</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6447.html">System and Software Security Assessment </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6448</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6448.html">Security Engineering Masterclass </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6449</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6449.html">Security Engineering Professional Practice </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6714</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6714.html">Information Retrieval and Web Search </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6733</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6733.html">Internet of Things Experimental Design Studio </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6741</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6741.html">Parameterized and Exact Computation </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6752</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6752.html">Modelling Concurrent Systems </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6771</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6771.html">Advanced C++ Programming </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6841</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6841.html">Extended Security Engineering and Cyber Security </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP6843</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6843.html">Extended Web Application Security and Testing </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP6845</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP6845.html">Extended Digital Forensics and Incident Response </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9161</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9161.html">Concepts of Programming Languages </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9242</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9242.html">Advanced Operating Systems</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9243</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9243.html">Distributed Systems</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9315</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9315.html">Database Systems Implementation</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9318</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9318.html">Data Warehousing and Data Mining</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9319</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9319.html">Web Data Compression and Search </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9321</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9321.html">Data Services Engineering </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9322</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9322.html">Software Service Design and Engineering </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9323</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9323.html">Software as a Service Project </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9332</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9332.html">Network Routing and Switching</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9333</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9333.html">Advanced Computer Networks</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9334</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9334.html">Capacity Planning of Computer Systems and Networks</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9417</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9417.html">Machine Learning and Data Mining</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9418</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9418.html">Advanced Topics in Statistical Machine Learning </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9444</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9444.html">Neural Networks and Deep Learning </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9447</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9447.html">Security Engineering Workshop </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">COMP9517</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9517.html">Computer Vision</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">COMP9844</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP9844.html">Extended Neural Networks and Deep Learning </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD abbr="" colspan="3" class="bottomBufferBlue">&nbsp;</TD>
+							</TR>
+						</TABLE>
+						<BR><DIV align="right" class="topBut"><A href="#GOTOP"><IMG src="http://www.handbook.unsw.edu.au/images/top_button2008.gif" alt="Goto top of page" width="37" height="15" border="0"></A></DIV>
+    
+
+
+
+   </div>
+   
+   </div>
+   <!-- End of Column 2 -->
+   
+   <!-- Column 3 -->
+   <div class="column small-col">
+   
+   <!-- Content Column Wrapper -->
+   <div class="contentColWrapper">
+   
+
+
+
+
+	<!-- Info Box "Study Level Quicklinks" -->
+	<div class="infoBox">
+	<div class="infoBoxHeader yellow">
+		<h2>Study Levels</h2>
+	</div>
+	<div class="infoBoxContent">
+										<div class="quickLinksBox">
+<a href="http://www.handbook.unsw.edu.au/undergraduate/2018/"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonUG.png" alt="Undergraduate Study" /></a>
+<a href="http://www.handbook.unsw.edu.au/postgraduate/2018/"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonPG.png" alt="Postgraudate Study" /></a>
+<a href="http://www.handbook.unsw.edu.au/research/2018/"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonPGR.png" alt="Postgraduate Research Study" /></a>
+<a href="http://www.handbook.unsw.edu.au/nonaward/2018/"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonNA.png" alt="Non-Award Study" /></a>
+										</div>
+			</div>
+		</div>
+	<!-- End of Info Box "Study Level Quick Links" -->
+
+ 
+   
+   
+
+
+
+
+
+	<!-- Info Box "UNSW Quick Links" -->
+		<div class="infoBox">
+		<div class="infoBoxHeader yellow">
+										<h2>UNSW Quick Links</h2>
+		</div>
+		<div class="infoBoxContent">
+										<div class="quickLinksBox">
+											<a href="https://apply.unsw.edu.au/"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonApplyOnline.png" alt="Apply Online" /></a>
+	<a href="https://student.unsw.edu.au/node/5450"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonFees.png" alt="Fees and Financial Assitance" /></a>
+	<a href="https://student.unsw.edu.au/node/1334"><img src="http://www.handbook.unsw.edu.au/images/2018/buttons/big/buttonAcademicCalendar.png" alt="Academic Calendar" /></a>
+										</div>
+		</div>
+	</div>
+	<!-- End of Info Box "UNSW Quick Links" -->
+
+   
+   </div>
+   <!-- End Content Column Wrapper -->
+   
+   </div>
+   <!-- End of Column 3 -->
+   
+   </div>
+   <!-- End of Content Pane -->
+   
+   </div>
+   <!-- End of Content -->
+   
+  <br />
+   </div>
+   <!-- End of Content Wrapper -->
+
+
+
+
+<div id="footerWrapper">
+
+				<!-- Footer -->
+				<div id="footer">					
+					<!-- Boiler Plate -->
+					<div id="boilerPlate">
+						<p>URL for this page: <script>document.write(window.location);</script><br /><br />&copy; UNSW Sydney (CRICOS Provider No.: 00098G), 2004-2017. The information contained in this Handbook is indicative only. While every effort is made to keep this information up-to-date, the University reserves the right to discontinue or vary arrangements, programs and courses at any time without notice and at its discretion. While the University will try to avoid or minimise any inconvenience, changes may also be made to programs, courses and staff after enrolment. The University may also set limits on the number of students in a course.</p>
+					</div>
+					
+					<!-- Links -->
+					<div id="links">
+						<div style="float:left;">Authorised by Deputy Vice-Chancellor (Education)</div>
+						<div style="clear:both; margin-bottom:4px; padding:0px"></div>
+						<div style="float:left;">CRICOS Provider Code 00098G&nbsp;&nbsp;|&nbsp;&nbsp;ABN: 57 195 873 179</div>
+						<div style="float:right;"><a href="http://www.unsw.edu.au/privacy" onclick="window.open(this.href); return false;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.unsw.edu.au/copyright-disclaimer" onclick="window.open(this.href); return false;">Copyright and Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.unsw.edu.au/accessibility" onclick="window.open(this.href); return false;">Accessibility</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:handbook.editor@unsw.edu.au">Site Feedback</a></div>
+					</div>
+				</div>
+				<!-- End of Footer -->
+</div>
+
+				<script type="text/javascript">
+
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-5209149-5']);
+				  _gaq.push(['_trackPageview']);
+
+				  (function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+
+				</script>
+<!-- End of Footer Wrapper -->
+
+
+  
+   </div>
+   <!-- End of Page Wrapper -->
+
+
+
+</BODY>
+</HTML>

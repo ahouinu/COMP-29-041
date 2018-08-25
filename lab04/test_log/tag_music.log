@@ -1,0 +1,91 @@
+
+Test tiny_album1 (tag_music.sh tiny_music/Album1*; id3 -l tiny_music/Album1*/*.mp3) - passed
+Test tiny_album2 (tag_music.sh tiny_music/Album2*; id3 -l tiny_music/Album2*/*.mp3) - passed
+Test tiny_both (tag_music.sh tiny_music/Album*; id3 -l tiny_music/Album*/*.mp3) - passed
+Test 1993_7 (tag_music.sh music/*1993/; id3 -l music/*1993/7*.mp3) - passed
+Test 2009_2 (tag_music.sh music/*2009; id3 -l music/*2009/2*.mp3) - passed
+Test 1994 (tag_music.sh music/*1994; id3 -l music/*1994/*.mp3) - passed
+Test 1999 (tag_music.sh music/*1999; id3 -l music/*1999/*.mp3) - passed
+Test 1995_1996 (tag_music.sh music/*199[56]/; id3 -l music/*199[56]/*.mp3) - passed
+Test all (tag_music.sh music/*;id3 -l music/*/*.mp3) - failed (Incorrect output)
+Your program produced these 1000 lines of output:
+music/Triple J Hottest 100, 1993/1 - Asshole - Denis Leary.mp3:
+Title  : Asshole                         Artist: Denis Leary                   
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 1
+music/Triple J Hottest 100, 1993/10 - Stone Me Into the Groove - Atomic Swing.mp3:
+Title  : Stone Me Into the Groove        Artist: Atomic Swing                  
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 10
+music/Triple J Hottest 100, 1993/2 - Creep - Radiohead.mp3:
+Title  : Creep                           Artist: Radiohead                     
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 2
+music/Triple J Hottest 100, 1993/3 - Linger - The Cranberries.mp3:
+Title  : Linger                          Artist: The Cranberries               
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 3
+music/Triple J Hottest 100, 1993/4 - No Rain - Blind Melon.mp3:
+Title  : No Rain                         Artist: Blind Melon                   
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 4
+music/Triple J Hottest 100, 1993/5 - Cannonball - The Breeders.mp3:
+Title  : Cannonball                      Artist: The Breeders                  
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 5
+music/Triple J Hottest 100, 1993/6 - Killing in the Name - Rage Against the Machine.mp3:
+Title  : Killing in the Name             Artist: Rage Against the Machine      
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 6
+music/Triple J Hottest 100, 1993/7 - Lemon - U2.mp3:
+Title  : Lemon                           Artist: U2                            
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 7
+...
+
+
+The correct 1000 lines of output for this test were:
+music/Triple J Hottest 100, 1993/1 - Asshole - Denis Leary.mp3:
+Title  : Asshole                         Artist: Denis Leary                   
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 1
+music/Triple J Hottest 100, 1993/10 - Stone Me Into the Groove - Atomic Swing.mp3:
+Title  : Stone Me Into the Groove        Artist: Atomic Swing                  
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 10
+music/Triple J Hottest 100, 1993/2 - Creep - Radiohead.mp3:
+Title  : Creep                           Artist: Radiohead                     
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 2
+music/Triple J Hottest 100, 1993/3 - Linger - The Cranberries.mp3:
+Title  : Linger                          Artist: The Cranberries               
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 3
+music/Triple J Hottest 100, 1993/4 - No Rain - Blind Melon.mp3:
+Title  : No Rain                         Artist: Blind Melon                   
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 4
+music/Triple J Hottest 100, 1993/5 - Cannonball - The Breeders.mp3:
+Title  : Cannonball                      Artist: The Breeders                  
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 5
+music/Triple J Hottest 100, 1993/6 - Killing in the Name - Rage Against the Machine.mp3:
+Title  : Killing in the Name             Artist: Rage Against the Machine      
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 6
+music/Triple J Hottest 100, 1993/7 - Lemon - U2.mp3:
+Title  : Lemon                           Artist: U2                            
+Album  : Triple J Hottest 100, 1993      Year: 1993, Genre: Unknown (255)
+Comment:                                 Track: 7
+...
+
+
+The difference between your output(-) and the correct output(+) is:
+...
+  music/Triple J Hottest 100, 1997/6 - Dammit - Blink-182.mp3:
+- Title  : Dammit                          Artist: Blink                         
++ Title  : Dammit                          Artist: Blink-182                     
+...
+You can reproduce this test by executing these commands:
+tag_music.sh music/*;id3 -l music/*/*.mp3
+8 tests passed 1 tests failed
